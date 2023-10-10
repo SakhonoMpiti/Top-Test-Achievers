@@ -1,0 +1,24 @@
+{
+  "name": "top-scorer-algorithm",
+  "version": "1.0.0",
+  "description": "An application that gets the top achievers for a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SakhonoMpiti/Top-Test-Achievers.git"
+  },
+  "keywords": [
+    "Top",
+    "Test",
+    "Achievers"
+  ],
+  "author": "Sakhono Mpiti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SakhonoMpiti/Top-Test-Achievers/issues"
+  },
+  "homepage": "https://github.com/SakhonoMpiti/Top-Test-Achievers#readme"
+}
